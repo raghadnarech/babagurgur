@@ -30,7 +30,7 @@ environment:
 dependencies:
   another_flushbar: ^1.12.30
   auto_size_text: null
-  awesome_dialog: 
+  awesome_dialog: 3.2.1
   badges: null
   carousel_slider: ^4.2.1
   chips_choice: ^3.0.0
@@ -38,25 +38,25 @@ dependencies:
   flexi_chip: null
   flutter:
     sdk: flutter
-  flutter_slidable: null
-  flutter_speed_dial: 6.2.0
   flutter_localizations:
     sdk: flutter
-  intl: 
-  get: 
-  url_launcher: 
+  flutter_slidable: null
+  flutter_speed_dial: 6.2.0
+  get: null
   http: null
-  image_picker_ios: 
+  image_picker_ios: null
   insta_image_viewer: ^1.0.2
+  intl: null
   loading_animation_widget: null
   page_transition: null
   path_provider: 2.0.2
   progress_state_button: ^1.0.4
   provider: null
-  rename: 
+  rename: ^3.0.2
   screenshot: 1.2.1
   shared_preferences: null
   shimmer: 2.0.0
+  url_launcher: null
 
 dev_dependencies:
   flutter_launcher_icons: null
